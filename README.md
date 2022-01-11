@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-https://hovsep21.netlify.app/
+Live Demo The application is hosted on Netlify and can be accessed at the following web address: https://hovsep21.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
